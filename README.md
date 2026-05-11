@@ -229,8 +229,7 @@ This effectively computes cosine similarity.
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone <your_repo_url>
-cd Teleport_RAG_Engine
+git clone https://github.com/Yash-raj-singh2804/semantic-rag-benchmark
 ```
 
 ---
@@ -336,22 +335,6 @@ Top-K Semantic Chunks
 LLM Response Generation
 ```
 
----
-
-# 📊 Future Improvements
-
-## Planned Enhancements
-
-- Hybrid search (BM25 + vectors)
-- Reranking models
-- Chunk overlap strategies
-- Metadata filtering
-- Streaming retrieval
-- Multi-query retrieval
-- Retrieval metrics dashboard
-
----
-
 # 🔒 Design Principles
 
 This project follows:
@@ -374,14 +357,6 @@ Key focus areas:
 - retrieval experimentation
 - benchmark clarity
 - enterprise migration readiness
-
----
-
-# 📜 License
-
-MIT License
-
----
 
 # 🙌 Acknowledgements
 
